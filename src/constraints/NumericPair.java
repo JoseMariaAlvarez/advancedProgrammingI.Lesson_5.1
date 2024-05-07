@@ -1,4 +1,4 @@
-package inheritance;
+package constraints;
 
 import motivation.Pair;
 

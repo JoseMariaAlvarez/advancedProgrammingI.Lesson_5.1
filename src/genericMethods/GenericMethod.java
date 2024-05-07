@@ -1,6 +1,6 @@
 package genericMethods;
 
-import severalParamenters.PairAB;
+import severalParameters.PairAB;
 
 public class GenericMethod {
 		static public <A, B> String toString(PairAB<A, B> pair) {

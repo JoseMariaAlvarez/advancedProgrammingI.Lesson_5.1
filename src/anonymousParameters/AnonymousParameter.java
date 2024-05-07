@@ -1,6 +1,6 @@
 package anonymousParameters;
 
-import severalParamenters.PairAB;
+import severalParameters.PairAB;
 
 public class AnonymousParameter {
 	public static String toString(PairAB<?,?> pair) {

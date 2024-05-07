@@ -1,4 +1,4 @@
-package severalParamenters;
+package severalParameters;
 
 public class PairAB <A, B> {
 		private A first;
